@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.chisaka.moe</id>
+    <title>Chisaka&apos;s Blog</title>
+    <updated>2021-02-08T08:32:27.208Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.chisaka.moe"/>
+    <link rel="self" href="https://blog.chisaka.moe/atom.xml"/>
+    <subtitle>Keep exploring, stay curious.</subtitle>
+    <logo>https://blog.chisaka.moe/images/avatar.png</logo>
+    <icon>https://blog.chisaka.moe/favicon.ico</icon>
+    <rights>All rights reserved 2021, Chisaka&apos;s Blog</rights>
+</feed>
